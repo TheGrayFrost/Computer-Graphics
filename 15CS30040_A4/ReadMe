@@ -1,0 +1,5 @@
+To run the code:
+1. For the 2 source gif, run make Cube2
+2. For the 1 source gif, run make Cube1
+The suggested values for running the code can be obtained from input1.txt.
+The code has been written to taking into consideration most ranges of the values and scaling accordingly.

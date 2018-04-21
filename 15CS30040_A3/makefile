@@ -8,4 +8,3 @@ a.out: cube.cpp
 clean:
 	rm a.out Cube.gif
 	rm -rf Sample\ Images
-	

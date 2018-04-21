@@ -166,7 +166,6 @@ struct D3point
 		return (D3point(x/u, y/u, z/u));
 	}
 
-
 	double operator * (D3point u)
 	{
 		return (x * u.x + y * u.y + z * u.z);
